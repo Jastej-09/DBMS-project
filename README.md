@@ -2,22 +2,11 @@
 
 A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
 
-
-![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
-
-![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
-
-![home](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/cdc516a9-17fb-4da6-bc1f-27b704360530)
-
-![Add Book](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/819581a7-a91e-4650-a50c-04a6eaf7d513)
-
-![Student registration](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/b6b2d0e1-0187-4f50-a662-4c735ba50d33)
-
-![issue](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/d7f240ee-e93f-4a04-b3b8-27dfbb9cf814)
-
-![return](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/8aef7cf9-15e2-4e6d-aa62-b854e8a43fd7)
-
-![logout](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/1b224c1e-2ca2-448e-8f87-220a8662245a)
-
-
-![Screenshot_20241107-123605_1](https://github.com/user-attachments/assets/c2bc6530-5f94-4aff-9299-d8e705e0e146)
+![Screenshot (27)](https://github.com/user-attachments/assets/e4215a7b-334d-43f8-a5ca-2a3f45e00cf3)
+![Screenshot (28)](https://github.com/user-attachments/assets/ffcefb68-646a-4ce9-bb7d-4721c9a5b9b0)
+![Screenshot (32)](https://github.com/user-attachments/assets/71cf2ab7-e387-4285-bbe6-968b5a7d211e)
+![Screenshot (33)](https://github.com/user-attachments/assets/0a8f7b28-bdae-4ebb-9ff1-dfeca171f87a)
+![Screenshot (34)](https://github.com/user-attachments/assets/e3f9dc71-ad24-4add-ba24-598700848693)
+![Screenshot (35)](https://github.com/user-attachments/assets/78ef4846-aefe-4bf2-9b5d-3daf802da36a)
+![Screenshot (102)](https://github.com/user-attachments/assets/50660aa0-b010-4539-abb3-97db7fdcbd32)
+![Screenshot (103)](https://github.com/user-attachments/assets/75dc0ce8-839c-4baa-a2a5-2aff499e874d)
